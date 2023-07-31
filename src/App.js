@@ -25,7 +25,7 @@ function App() {
     <>
       <Container className="my-4">
         <Stack direction="horizontal" gap="2" className="mb-4">
-          <h1 className="me-auto">Managae your Expenses with Ease!</h1>
+          <h1 className="me-auto">Manage your Expenses with Ease!</h1>
           <Button variant="primary" onClick={() => setShowAddBudgetModal(true)}>
             Add Budget
           </Button>
